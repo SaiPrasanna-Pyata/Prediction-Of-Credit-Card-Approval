@@ -17,4 +17,5 @@ Analyzed credit card approval predictions by evaluating applicant attributes wit
 • Compared the performance of these algorithms to identify the most effective model for predicting credit card approval.
 
 COLAB NOTEBOOK LINK: https://colab.research.google.com/drive/1_zkZbeYMgawu2YoPZKPofidJKZIwfHt4?usp=sharing
+
 PROJECT PRESENTATION LINK: https://1drv.ms/p/c/21a634214505fd6e/EWVP087BbK9JhUs7rqApi3ABzx6XYkwpXLtLBabj4WAAdQ?e=72eoLF
